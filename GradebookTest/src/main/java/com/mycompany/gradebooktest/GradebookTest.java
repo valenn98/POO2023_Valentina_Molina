@@ -1,5 +1,14 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
 
-public class Mavenproject1 {
+package com.mycompany.gradebooktest;
+
+/**
+ *
+ * @author VALENTINA
+ */
+public class GradebookTest {
 
     public static void main(String[] args) {
 		
@@ -21,8 +30,4 @@ public class Mavenproject1 {
 		
 		//planillaNotas.displayMessage("POO ucaldas 2023-1");
 	}
-
 }
-
-
-
